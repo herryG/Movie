@@ -15,7 +15,6 @@ export default class Email extends Component {
     super(props);
     this.state = {
       emailaddress: '',
-      // emailError: '',
       EmailModel: false,
       isValidUser: true,
       check_textInputChange: '',
